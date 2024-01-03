@@ -1,0 +1,23 @@
+
+#prevEvents-section .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width:100%;
+    margin: 0 auto;
+
+  }
+
+#prevEvents-section .prevEvent-link{
+    display: block;
+    position: relative;
+    max-width: 400px;
+    margin: 5% 0;
+
+  }
+
+  #prevEvents-section .galleryPhoto{
+    width:300px;
+    height:300px;
+  }
